@@ -1,0 +1,1 @@
+Simple React & Redux application which shows the basics concepts of using Redux library.
